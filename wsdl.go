@@ -1,6 +1,4 @@
-package go-gestpay
-
-package entities
+package go_gestpay
 
 import (
 	"context"
