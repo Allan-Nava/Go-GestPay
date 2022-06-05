@@ -1,4 +1,4 @@
-module go-gestpay
+module github.com/Allan-Nava/Go-GestPay
 
 go 1.17
 
