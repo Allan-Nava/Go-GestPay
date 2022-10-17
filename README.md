@@ -1,5 +1,11 @@
 # Go GestPay 
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/Allan-Nava/Go-GestPay)](https://goreportcard.com/report/github.com/Allan-Nava/Go-GestPay)
+[![GoDoc](https://godoc.org/github.com/Allan-Nava/Go-GestPay?status.svg)](https://godoc.org/github.com/Allan-Nava/Go-GestPay)
+
+
+
+
 Axerve Ecommerce Solutions WsCryptDecrypt web service is exposed at following URLs:
 
 environment	URL
