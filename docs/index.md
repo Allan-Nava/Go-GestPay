@@ -9,7 +9,7 @@ last_modified_date: 2022-10-21T21:54:08+0000
 
 # Go GestPay Official Documentation
 
-This is library is used for gestpay web service
+This is library is used for gestpay web service for the SOAP api
 
 
 ### About the project
