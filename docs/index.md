@@ -1,19 +1,19 @@
-# Go GestPay 
+---
+layout: default
+title: Home
+nav_order: 1
+description: "Go GestPay Official Docs"
+permalink: /
+last_modified_date: 2022-10-21T21:54:08+0000
+---
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/Allan-Nava/Go-GestPay)](https://goreportcard.com/report/github.com/Allan-Nava/Go-GestPay)
-[![GoDoc](https://godoc.org/github.com/Allan-Nava/Go-GestPay?status.svg)](https://godoc.org/github.com/Allan-Nava/Go-GestPay)
+# Go GestPay Official Documentation
+
+This is library is used for gestpay web service for the SOAP api
 
 
+### About the project
 
-
-Axerve Ecommerce Solutions WsCryptDecrypt web service is exposed at following URLs:
-
-environment	URL
-
-```
-test	https://sandbox.gestpay.net/gestpay/GestPayWS/WsCryptDecrypt.asmx?wsdl
-production	https://ecommS2S.sella.it/gestpay/GestPayWS/WsCryptDecrypt.asmx?wsdl
-```
 
 WSCryptDecrypt web service is available on production and test servers and does not require any installation on the merchant’s server.
 
@@ -28,4 +28,5 @@ If not, the values of the ErrorCode and ErrorDescription tag will make it possib
 The information containing the transaction result will be available by reading the information in the XML response file corresponding to the result of the transaction.
 
 
-Axereve documentation: https://api.axerve.com/
+Axerve documentation: [https://api.axerve.com](https://api.axerve.com/)
+
